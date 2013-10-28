@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1382794349 source:e:\programming\programs\iotest\main.cpp
+	"data.hpp"
+
+1382794554 source:e:\programming\programs\iotest\data.cpp
+	"data.hpp"
+
+1382806054 e:\programming\programs\iotest\data.hpp
+	"library.hpp"
+
+1382793297 e:\programming\programs\iotest\library.hpp
+	<iostream>
+	<fstream>
+	<cstdlib>
+	<SDL/SDL.h>
+	<stdio.h>
+
+1382473869 source:e:\programming\programs\iotest\graphic.cpp
+	"graphic.hpp"
+
+1382462272 e:\programming\programs\iotest\graphic.hpp
+	"library.hpp"
+
