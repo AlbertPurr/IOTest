@@ -1,0 +1,48 @@
+Alcubierre v.0.0.1 by Purrr Code Studio
+
+==============================
+Configuration found.
+                #Configuration
+4294967295
+                #{
+4294967295
+                #Debug_Mode="false";
+4294967295
+                #Player_Name="Tazoru";
+4294967295
+                #Screen_Height=640;
+4294967295
+                #Screen_Width=480;
+4294967295
+                #Default_Language="eng";
+4294967295
+                #}
+0
+Check Configurations00000
+Out of lop
+                #Locations
+Location found!
+                #{
+4294967295
+                #	Solar System(p;0.0000;0.0000)
+4294967295
+                #	{
+4294967295
+                #	Sol;
+4294967295
+                #	}
+1
+                #}
+0
+Out of loop
+                #
+Empty line found
+
+===========Settings============
+Debug mode 0
+Player name Tazoru
+Resolution 640x480
+Default language eng
+0 % of file data corrupted.
+Loaded data: 1 1 0 0 0 
+Program finished!
