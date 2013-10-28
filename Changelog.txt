@@ -1,0 +1,11 @@
+v 0.0.1
+-added class loading data from file 'Data.dat' & 'Config.conf'
+-added dumping logs to 'logs.log'
+-added class with main loop
+-SDL library
+
+
+SDL Linking:
+Search directories->Compiler : SDL\include
+Search directories->Linker : SDL\lib
+Search directories->Resource compiler : SDL\bin
